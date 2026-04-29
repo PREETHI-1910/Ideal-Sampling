@@ -144,13 +144,17 @@ plt.show()
 # Output Waveform
 
 # Impulse Sampling 
-<img width="1398" height="989" alt="image" src="https://github.com/user-attachments/assets/079c6e82-36b7-4637-9604-e62aba5e0a7a" />
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/9db104f7-1176-4481-b530-5812deeca56d" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/5798c565-1107-4e10-8987-754fd909c198" />
+
+<img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/8c5fd217-11e1-4478-91f5-6f215bae795d" />
 
 # Natural sampling
-<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/61bc16b7-348f-48ff-ac8e-32091eab00ca" />
+<img width="1390" height="989" alt="dc natural" src="https://github.com/user-attachments/assets/2f2c2e99-46c2-4e89-89d8-9bda85289aaa" />
 
 # Flat-Top Sampling
-<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/d108f5b2-fb32-45ef-bdde-2ba0ddd56952" />
+<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/41ab1827-30ee-410b-8798-53e0fdb5e05e" />
 
 # Results
 
